@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sshakibbb
-- 👀 I’m interested in Computer Science, Machine Learning, Blockchain Technology, and Finance
+- 👀 I’m interested in Computer Science, Machine Learning, Blockchain, and Finance
 - 🌱 I’m currently studying in my first year as an undergraduate in Computer Science
 - 💞️ I'm open to collaborate on projects with other novice programmers
 - 📫 You can reach me at shakibjadside01@gmail.com
